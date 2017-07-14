@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "40f844264c97deb4285bc0ab4b497870"
+build_time: [553354239, 557864000]
+inputs:
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/vapor.git-5492988889259800272/Sources/Cache/CacheProtocol.swift": [553354205, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/vapor.git-5492988889259800272/Sources/Cache/MemoryCache.swift": [553354205, 0]

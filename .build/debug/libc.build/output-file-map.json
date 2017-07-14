@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/azimin/Downloads/Hello2/.build/debug/libc.build/master.swiftdeps"
+  },
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/core.git-9210800844849382486/Sources/libc/libc.swift": {
+    "dependencies": "/Users/azimin/Downloads/Hello2/.build/debug/libc.build/libc.d",
+    "object": "/Users/azimin/Downloads/Hello2/.build/debug/libc.build/libc.swift.o",
+    "swiftmodule": "/Users/azimin/Downloads/Hello2/.build/debug/libc.build/libc~partial.swiftmodule",
+    "swift-dependencies": "/Users/azimin/Downloads/Hello2/.build/debug/libc.build/libc.swiftdeps"
+  }
+}

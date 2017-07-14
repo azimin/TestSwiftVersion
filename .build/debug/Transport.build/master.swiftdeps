@@ -1,0 +1,14 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "a68757517608eb7087059e8ae53ec100"
+build_time: [553354226, 792236000]
+inputs:
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Exports.swift": [553354206, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Internet/ClientStream.swift": [553354206, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Internet/InternetStream.swift": [553354206, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Internet/Port.swift": [553354206, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Internet/ServerStream.swift": [553354206, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Streams/FoundationStream.swift": [553354206, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Streams/ReadableStream.swift": [553354206, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Streams/Stream.swift": [553354206, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Streams/StreamError.swift": [553354206, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Streams/WriteableStream.swift": [553354206, 0]

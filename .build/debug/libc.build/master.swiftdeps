@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "a2483e212fed00d0969430a8ab5fc044"
+build_time: [553354225, 619769000]
+inputs:
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/core.git-9210800844849382486/Sources/libc/libc.swift": [553354205, 0]

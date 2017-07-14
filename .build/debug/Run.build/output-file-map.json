@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/azimin/Downloads/Hello2/.build/debug/Run.build/master.swiftdeps"
+  },
+  "/Users/azimin/Downloads/Hello2/Sources/Run/main.swift": {
+    "dependencies": "/Users/azimin/Downloads/Hello2/.build/debug/Run.build/main.d",
+    "object": "/Users/azimin/Downloads/Hello2/.build/debug/Run.build/main.swift.o",
+    "swiftmodule": "/Users/azimin/Downloads/Hello2/.build/debug/Run.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/azimin/Downloads/Hello2/.build/debug/Run.build/main.swiftdeps"
+  }
+}

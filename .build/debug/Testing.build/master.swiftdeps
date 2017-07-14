@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "b836bdc222b50bb97c97ba2ab8b32ad1"
+build_time: [553354246, 482635000]
+inputs:
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/vapor.git-5492988889259800272/Sources/Testing/Bytes.swift": [553354205, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/vapor.git-5492988889259800272/Sources/Testing/Exports.swift": [553354205, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/vapor.git-5492988889259800272/Sources/Testing/Request.swift": [553354205, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/vapor.git-5492988889259800272/Sources/Testing/Responder.swift": [553354205, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/vapor.git-5492988889259800272/Sources/Testing/Response.swift": [553354205, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/vapor.git-5492988889259800272/Sources/Testing/TestingError.swift": [553354205, 0]

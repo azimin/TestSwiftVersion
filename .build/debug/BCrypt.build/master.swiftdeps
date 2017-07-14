@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "248daf0d67eae5084770e05ff55f520f"
+build_time: [553354228, 114357000]
+inputs:
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Base64.swift": [553354208, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/BCryptError.swift": [553354208, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Convenience.swift": [553354208, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Export.swift": [553354208, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Hash.swift": [553354208, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Keys.swift": [553354208, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Parser.swift": [553354208, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Salt.swift": [553354208, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Serializer.swift": [553354208, 0]

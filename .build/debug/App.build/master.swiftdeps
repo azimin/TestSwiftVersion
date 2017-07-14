@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "611b7e78f4eee682c2f0d2abb1f9f42a"
+build_time: [553354247, 770860000]
+inputs:
+  "/Users/azimin/Downloads/Hello2/Sources/App/Config+Setup.swift": [553354161, 0]
+  "/Users/azimin/Downloads/Hello2/Sources/App/Droplet+Setup.swift": [553354161, 0]
+  "/Users/azimin/Downloads/Hello2/Sources/App/Routes.swift": [553354161, 0]
+  "/Users/azimin/Downloads/Hello2/Sources/App/Controllers/PostController.swift": [553354161, 0]
+  "/Users/azimin/Downloads/Hello2/Sources/App/Models/Post.swift": [553354161, 0]

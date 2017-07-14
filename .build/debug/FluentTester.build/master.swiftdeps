@@ -1,0 +1,20 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "79870b3736d9eefb8e7acc27b05ffed2"
+build_time: [553354242, 25380000]
+inputs:
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Atom.swift": [553354207, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Compound.swift": [553354207, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Student.swift": [553354207, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+Chunk.swift": [553354207, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+CustomKeys.swift": [553354207, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+ForeignKey.swift": [553354207, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+Index.swift": [553354207, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+InsertAndFind.swift": [553354207, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+Paginate.swift": [553354207, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+PivotsAndRelations.swift": [553354207, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+Schema.swift": [553354207, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+SoftDelete.swift": [553354207, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+Timestamps.swift": [553354207, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+Transaction.swift": [553354207, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+Utilities.swift": [553354207, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester.swift": [553354207, 0]

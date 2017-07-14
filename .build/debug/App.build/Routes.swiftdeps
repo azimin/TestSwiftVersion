@@ -1,0 +1,229 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["C5Vapor7Droplet", ""]
+- ["C5Vapor7Droplet", "setupRoutes"]
+provides-dynamic-lookup:
+depends-top-level:
+- "Droplet"
+- !private "JSON"
+- !private "PostController"
+- !private "StringLiteralType"
+depends-member:
+- !private ["Ps9AnyObject", "JSON"]
+- !private ["Ps9AnyObject", "PostController"]
+- !private ["Ps9AnyObject", "description"]
+- !private ["Ps9AnyObject", "get"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "resource"]
+- !private ["P4HTTP17BodyRepresentable", "init"]
+- !private ["P4HTTP17BodyRepresentable", "set"]
+- !private ["P4Bits16BytesConvertible", "init"]
+- !private ["P4Bits16BytesConvertible", "set"]
+- !private ["P4Bits18BytesInitializable", "init"]
+- !private ["P4Bits18BytesInitializable", "set"]
+- !private ["P4Bits18BytesRepresentable", "init"]
+- !private ["P4Bits18BytesRepresentable", "set"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "description"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["C5Vapor7Droplet", "JSON"]
+- !private ["C5Vapor7Droplet", "PostController"]
+- !private ["C5Vapor7Droplet", "get"]
+- !private ["C5Vapor7Droplet", "resource"]
+- ["C5Vapor7Droplet", "setupRoutes"]
+- !private ["P4SMTP25EmailAddressRepresentable", "init"]
+- !private ["P4SMTP22EmailBodyRepresentable", "init"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "set"]
+- !private ["Ps25ExpressibleByArrayLiteral", "init"]
+- !private ["Ps25ExpressibleByArrayLiteral", "set"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "init"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "set"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "init"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "set"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "set"]
+- !private ["Ps25ExpressibleByFloatLiteral", "init"]
+- !private ["Ps25ExpressibleByFloatLiteral", "set"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "init"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "set"]
+- !private ["Ps23ExpressibleByNilLiteral", "init"]
+- !private ["Ps23ExpressibleByNilLiteral", "set"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "set"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "set"]
+- !private ["P4Node14FuzzyConverter", "init"]
+- !private ["P4Node14FuzzyConverter", "set"]
+- !private ["Ps8Hashable", "init"]
+- !private ["V4JSON4JSON", "init"]
+- !private ["V4JSON4JSON", "set"]
+- !private ["P4JSON17JSONRepresentable", "init"]
+- !private ["P4JSON17JSONRepresentable", "set"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["P4HTTP7Message", "description"]
+- !private ["Ps10MirrorPath", "init"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo16NSMutableCopying", "init"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "init"]
+- !private ["P4Node15NodeConvertible", "init"]
+- !private ["P4Node15NodeConvertible", "set"]
+- !private ["P4Node17NodeInitializable", "init"]
+- !private ["P4Node17NodeInitializable", "set"]
+- !private ["P4Node17NodeRepresentable", "description"]
+- !private ["P4Node17NodeRepresentable", "init"]
+- !private ["P4Node17NodeRepresentable", "set"]
+- !private ["P7Routing15Parameterizable", "init"]
+- !private ["P13PathIndexable13PathIndexable", "init"]
+- !private ["P13PathIndexable13PathIndexable", "set"]
+- !private ["P13PathIndexable11PathIndexer", "init"]
+- !private ["C3App14PostController", "deinit"]
+- !private ["C4HTTP7Request", "description"]
+- !private ["P5Vapor23RequestContentSubscript", "init"]
+- !private ["P4HTTP9Responder", "JSON"]
+- !private ["P4HTTP9Responder", "PostController"]
+- !private ["P4HTTP9Responder", "get"]
+- !private ["P4HTTP9Responder", "resource"]
+- !private ["P4HTTP21ResponseRepresentable", "init"]
+- !private ["P4HTTP21ResponseRepresentable", "set"]
+- !private ["P7Routing12RouteBuilder", "JSON"]
+- !private ["P7Routing12RouteBuilder", "PostController"]
+- !private ["P7Routing12RouteBuilder", "get"]
+- !private ["P7Routing12RouteBuilder", "resource"]
+- !private ["SS", "init"]
+- !private ["P5Vapor19StringInitializable", "init"]
+- !private ["P4Node21StructuredDataWrapper", "init"]
+- !private ["P4Node21StructuredDataWrapper", "set"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps33_ExpressibleByStringInterpolation", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+depends-nominal:
+- !private "Ps9AnyObject"
+- !private "P4HTTP17BodyRepresentable"
+- !private "P4Bits16BytesConvertible"
+- !private "P4Bits18BytesInitializable"
+- !private "P4Bits18BytesRepresentable"
+- !private "Ps7CVarArg"
+- !private "Ps10Comparable"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- "C5Vapor7Droplet"
+- !private "P4SMTP25EmailAddressRepresentable"
+- !private "P4SMTP22EmailBodyRepresentable"
+- !private "Ps9Equatable"
+- !private "Ps25ExpressibleByArrayLiteral"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps30ExpressibleByDictionaryLiteral"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps25ExpressibleByFloatLiteral"
+- !private "Ps27ExpressibleByIntegerLiteral"
+- !private "Ps23ExpressibleByNilLiteral"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- !private "P4Node14FuzzyConverter"
+- !private "Ps8Hashable"
+- !private "V4JSON4JSON"
+- !private "P4JSON17JSONRepresentable"
+- !private "Ps25LosslessStringConvertible"
+- !private "P4HTTP7Message"
+- !private "Ps10MirrorPath"
+- !private "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- !private "PSo16NSMutableCopying"
+- !private "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- !private "P4Node15NodeConvertible"
+- !private "P4Node17NodeInitializable"
+- !private "P4Node17NodeRepresentable"
+- !private "P7Routing15Parameterizable"
+- !private "P13PathIndexable13PathIndexable"
+- !private "P13PathIndexable11PathIndexer"
+- !private "C3App14PostController"
+- !private "C4HTTP7Request"
+- !private "P5Vapor23RequestContentSubscript"
+- !private "P4HTTP9Responder"
+- !private "P4HTTP21ResponseRepresentable"
+- !private "P7Routing12RouteBuilder"
+- !private "SS"
+- !private "P5Vapor19StringInitializable"
+- !private "P4Node21StructuredDataWrapper"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps33_ExpressibleByStringInterpolation"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- !private "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreText.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/azimin/Downloads/Hello2/.build/debug/URI.swiftmodule"
+- "/Users/azimin/Downloads/Hello2/.build/debug/JSON.swiftmodule"
+- "/Users/azimin/Downloads/Hello2/.build/debug/SMTP.swiftmodule"
+- "/Users/azimin/Downloads/Hello2/.build/debug/HTTP.swiftmodule"
+- "/Users/azimin/Downloads/Hello2/.build/debug/TLS.swiftmodule"
+- "/Users/azimin/Downloads/Hello2/.build/debug/FormData.swiftmodule"
+- "/Users/azimin/Downloads/Hello2/.build/debug/libc.swiftmodule"
+- "/Users/azimin/Downloads/Hello2/.build/debug/Node.swiftmodule"
+- "/Users/azimin/Downloads/Hello2/.build/debug/Cache.swiftmodule"
+- "/Users/azimin/Downloads/Hello2/.build/debug/PathIndexable.swiftmodule"
+- "/Users/azimin/Downloads/Hello2/.build/debug/Console.swiftmodule"
+- "/Users/azimin/Downloads/Hello2/.build/debug/Core.swiftmodule"
+- "/Users/azimin/Downloads/Hello2/.build/debug/SQLite.swiftmodule"
+- "/Users/azimin/Downloads/Hello2/.build/debug/Debugging.swiftmodule"
+- "/Users/azimin/Downloads/Hello2/.build/debug/Routing.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Users/azimin/Downloads/Hello2/.build/debug/Random.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Users/azimin/Downloads/Hello2/.build/debug/Crypto.swiftmodule"
+- "/Users/azimin/Downloads/Hello2/.build/debug/FluentProvider.swiftmodule"
+- "/Users/azimin/Downloads/Hello2/.build/debug/Vapor.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/azimin/Downloads/Hello2/.build/debug/Branches.swiftmodule"
+- "/Users/azimin/Downloads/Hello2/.build/debug/Cookies.swiftmodule"
+- "/Users/azimin/Downloads/Hello2/.build/debug/Configs.swiftmodule"
+- "/Users/azimin/Downloads/Hello2/.build/debug/Sessions.swiftmodule"
+- "/Users/azimin/Downloads/Hello2/.build/debug/Sockets.swiftmodule"
+- "/Users/azimin/Downloads/Hello2/.build/debug/WebSockets.swiftmodule"
+- "/Users/azimin/Downloads/Hello2/.build/debug/Bits.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/azimin/Downloads/Hello2/.build/debug/Fluent.swiftmodule"
+- "/Users/azimin/Downloads/Hello2/.build/debug/BCrypt.swiftmodule"
+- "/Users/azimin/Downloads/Hello2/.build/debug/Multipart.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/azimin/Downloads/Hello2/.build/debug/Transport.swiftmodule"
+- "/Users/azimin/Downloads/Hello2/.build/checkouts/sqlite.git--8232814251736334455/Sources/CSQLite/include/sqlite3.h"
+- "/Users/azimin/Downloads/Hello2/.build/checkouts/engine.git-3311994267206676365/Sources/CHTTP/include/http_parser.h"
+- "/Users/azimin/Downloads/Hello2/.build/checkouts/ctls.git-9210868160426949823/module.modulemap"
+- "/Users/azimin/Downloads/Hello2/.build/debug/CHTTP.build/module.modulemap"
+- "/Users/azimin/Downloads/Hello2/.build/debug/CSQLite.build/module.modulemap"
+interface-hash: "b0b33146560383547cdfe8dc9ca10424"

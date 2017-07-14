@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/azimin/Downloads/Hello2/.build/debug/App.build/master.swiftdeps"
+  },
+  "/Users/azimin/Downloads/Hello2/Sources/App/Config+Setup.swift": {
+    "dependencies": "/Users/azimin/Downloads/Hello2/.build/debug/App.build/Config+Setup.d",
+    "object": "/Users/azimin/Downloads/Hello2/.build/debug/App.build/Config+Setup.swift.o",
+    "swiftmodule": "/Users/azimin/Downloads/Hello2/.build/debug/App.build/Config+Setup~partial.swiftmodule",
+    "swift-dependencies": "/Users/azimin/Downloads/Hello2/.build/debug/App.build/Config+Setup.swiftdeps"
+  },
+  "/Users/azimin/Downloads/Hello2/Sources/App/Droplet+Setup.swift": {
+    "dependencies": "/Users/azimin/Downloads/Hello2/.build/debug/App.build/Droplet+Setup.d",
+    "object": "/Users/azimin/Downloads/Hello2/.build/debug/App.build/Droplet+Setup.swift.o",
+    "swiftmodule": "/Users/azimin/Downloads/Hello2/.build/debug/App.build/Droplet+Setup~partial.swiftmodule",
+    "swift-dependencies": "/Users/azimin/Downloads/Hello2/.build/debug/App.build/Droplet+Setup.swiftdeps"
+  },
+  "/Users/azimin/Downloads/Hello2/Sources/App/Routes.swift": {
+    "dependencies": "/Users/azimin/Downloads/Hello2/.build/debug/App.build/Routes.d",
+    "object": "/Users/azimin/Downloads/Hello2/.build/debug/App.build/Routes.swift.o",
+    "swiftmodule": "/Users/azimin/Downloads/Hello2/.build/debug/App.build/Routes~partial.swiftmodule",
+    "swift-dependencies": "/Users/azimin/Downloads/Hello2/.build/debug/App.build/Routes.swiftdeps"
+  },
+  "/Users/azimin/Downloads/Hello2/Sources/App/Controllers/PostController.swift": {
+    "dependencies": "/Users/azimin/Downloads/Hello2/.build/debug/App.build/PostController.d",
+    "object": "/Users/azimin/Downloads/Hello2/.build/debug/App.build/Controllers/PostController.swift.o",
+    "swiftmodule": "/Users/azimin/Downloads/Hello2/.build/debug/App.build/PostController~partial.swiftmodule",
+    "swift-dependencies": "/Users/azimin/Downloads/Hello2/.build/debug/App.build/PostController.swiftdeps"
+  },
+  "/Users/azimin/Downloads/Hello2/Sources/App/Models/Post.swift": {
+    "dependencies": "/Users/azimin/Downloads/Hello2/.build/debug/App.build/Post.d",
+    "object": "/Users/azimin/Downloads/Hello2/.build/debug/App.build/Models/Post.swift.o",
+    "swiftmodule": "/Users/azimin/Downloads/Hello2/.build/debug/App.build/Post~partial.swiftmodule",
+    "swift-dependencies": "/Users/azimin/Downloads/Hello2/.build/debug/App.build/Post.swiftdeps"
+  }
+}

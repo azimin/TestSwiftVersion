@@ -1,0 +1,17 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "0f9c2be4fad97d8e55a2c97b789d7cbd"
+build_time: [553354239, 559304000]
+inputs:
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Config+Arguments.swift": [553354205, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Config+Directory.swift": [553354205, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Config.swift": [553354205, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/ConfigError.swift": [553354205, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/ConfigInitializable.swift": [553354205, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Environment.swift": [553354205, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/KeyAccessible+Merge.swift": [553354205, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/KeyAccessible.swift": [553354205, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Node+Merge.swift": [553354205, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Source.swift": [553354205, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Env/Env.swift": [553354205, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Env/Node+Env.swift": [553354205, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Env/String+Env.swift": [553354205, 0]

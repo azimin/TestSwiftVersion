@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/azimin/Downloads/Hello2/.build/debug/FormData.build/master.swiftdeps"
+  },
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/ContentDispositionParser.swift": {
+    "dependencies": "/Users/azimin/Downloads/Hello2/.build/debug/FormData.build/ContentDispositionParser.d",
+    "object": "/Users/azimin/Downloads/Hello2/.build/debug/FormData.build/ContentDispositionParser.swift.o",
+    "swiftmodule": "/Users/azimin/Downloads/Hello2/.build/debug/FormData.build/ContentDispositionParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/azimin/Downloads/Hello2/.build/debug/FormData.build/ContentDispositionParser.swiftdeps"
+  },
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/Field.swift": {
+    "dependencies": "/Users/azimin/Downloads/Hello2/.build/debug/FormData.build/Field.d",
+    "object": "/Users/azimin/Downloads/Hello2/.build/debug/FormData.build/Field.swift.o",
+    "swiftmodule": "/Users/azimin/Downloads/Hello2/.build/debug/FormData.build/Field~partial.swiftmodule",
+    "swift-dependencies": "/Users/azimin/Downloads/Hello2/.build/debug/FormData.build/Field.swiftdeps"
+  },
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/Parser.swift": {
+    "dependencies": "/Users/azimin/Downloads/Hello2/.build/debug/FormData.build/Parser.d",
+    "object": "/Users/azimin/Downloads/Hello2/.build/debug/FormData.build/Parser.swift.o",
+    "swiftmodule": "/Users/azimin/Downloads/Hello2/.build/debug/FormData.build/Parser~partial.swiftmodule",
+    "swift-dependencies": "/Users/azimin/Downloads/Hello2/.build/debug/FormData.build/Parser.swiftdeps"
+  },
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/Serializer.swift": {
+    "dependencies": "/Users/azimin/Downloads/Hello2/.build/debug/FormData.build/Serializer.d",
+    "object": "/Users/azimin/Downloads/Hello2/.build/debug/FormData.build/Serializer.swift.o",
+    "swiftmodule": "/Users/azimin/Downloads/Hello2/.build/debug/FormData.build/Serializer~partial.swiftmodule",
+    "swift-dependencies": "/Users/azimin/Downloads/Hello2/.build/debug/FormData.build/Serializer.swiftdeps"
+  }
+}

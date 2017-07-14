@@ -1,0 +1,17 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "00575fe0e0f21e3b6da49f1607e2a85a"
+build_time: [553354228, 115775000]
+inputs:
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Cipher/Cipher+Method.swift": [553354207, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Cipher/Cipher.swift": [553354207, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Essentials/ByteStream.swift": [553354207, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Essentials/Exports.swift": [553354207, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Essentials/Helpers.swift": [553354207, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Hash/Hash+Method.swift": [553354207, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Hash/Hash.swift": [553354207, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/HMAC/HMAC+Method.swift": [553354207, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/HMAC/HMAC.swift": [553354207, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/Hash+Random.swift": [553354207, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/LibreSSLError.swift": [553354207, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/PseudoRandom.swift": [553354207, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/Random.swift": [553354207, 0]

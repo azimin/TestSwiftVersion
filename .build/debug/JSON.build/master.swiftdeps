@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "c29aa185699d34519129181552dee681"
+build_time: [553354231, 377521000]
+inputs:
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Bytes.swift": [553354207, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Equatable.swift": [553354207, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Fuzzy.swift": [553354207, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Parse.swift": [553354207, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Serialize.swift": [553354207, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON.swift": [553354207, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSONContext.swift": [553354207, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSONRepresentable.swift": [553354207, 0]
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/json.git-9153249592855998091/Sources/JSON/Sequence+Convertible.swift": [553354207, 0]

@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "eac2c52da8c10731482b120605d5aee3"
+build_time: [553354220, 983345000]
+inputs:
+  "/Users/azimin/Downloads/Hello2/.build/checkouts/debugging.git-4365319567167379684/Sources/Debugging/Debuggable.swift": [553354206, 0]
